@@ -1,0 +1,4 @@
+# Timing only (no pin LOCs) - 100 MHz, same target as the original design.
+# Add your board's pin locations here, or better, use a board wrapper (see README).
+NET "clk" TNM_NET = "clk";
+TIMESPEC "TS_clk" = PERIOD "clk" 10 ns HIGH 50%;

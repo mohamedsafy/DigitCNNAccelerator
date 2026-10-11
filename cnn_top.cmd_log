@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/ISE/cnn_mnist_ise147/cnn_top.xst" -ofn "/home/ise/ISE/cnn_mnist_ise147/cnn_top.syr" 

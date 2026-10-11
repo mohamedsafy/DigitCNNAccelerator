@@ -1,0 +1,28 @@
+{
+ "conv1": {
+  "fin": 8,
+  "fw": 7,
+  "facc": 15,
+  "fo": 6,
+  "shift": 9
+ },
+ "conv2": {
+  "fin": 6,
+  "fw": 7,
+  "facc": 13,
+  "fo": 5,
+  "shift": 8
+ },
+ "fc": {
+  "fin": 5,
+  "fw": 7,
+  "facc": 12
+ },
+ "summary": {
+  "float_acc": 0.9812,
+  "int8_acc": 0.9813,
+  "float_vs_int8_agreement": 0.9997,
+  "max_abs_acc_bound": 562050,
+  "acc_bits_needed": 21
+ }
+}

@@ -1,0 +1,8 @@
+vhdl work "src/cnn_weights_pkg.vhd"
+vhdl work "src/swg3x3.vhd"
+vhdl work "src/mvau.vhd"
+vhdl work "src/maxpool2x2.vhd"
+vhdl work "src/fifo.vhd"
+vhdl work "src/collect.vhd"
+vhdl work "src/argmax.vhd"
+vhdl work "src/cnn_top.vhd"
